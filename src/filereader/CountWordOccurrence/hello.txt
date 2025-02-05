@@ -1,0 +1,1 @@
+hello, You are counting the word occurrence for "hello" in the file named hello (.txt) with file reader.
