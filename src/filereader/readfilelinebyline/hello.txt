@@ -1,0 +1,4 @@
+Hello, You are reading the first line with file reader.
+Again, You are reading the second line with file reader.
+Again, You are reading the third line with file reader.
+And again, You are reading the last line with file reader.
